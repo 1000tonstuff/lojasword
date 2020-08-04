@@ -1,0 +1,4 @@
+2020-08-03T17:18:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wp-content\plugins\simply-static\includes\libraries\PhpSimple\simplehtmldom_1_5\simple_html_dom.php on line 1378
+
+2020-08-03T17:54:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wp-content\plugins\simply-static\includes\libraries\PhpSimple\simplehtmldom_1_5\simple_html_dom.php on line 1378
+
